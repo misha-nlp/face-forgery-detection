@@ -23,6 +23,7 @@ The two-stream model is shown as follows.
 The model is implemented with PyTorch.
 
 Pretrained Xception weights are downloaded from [this link](http://data.lip6.fr/cadene/pretrainedmodels/xception-b5690688.pth).
+Or from [huggingface](https://huggingface.co/spaces/asdasdasdasd/Face-forgery-detection/blob/main/xception-b5690688.pth).
 
 ## Contact
 
